@@ -1,4 +1,4 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif) ](https://Tirth-AI.io)
+[![MasterHead](https://www.kapwing.com/videos/6337d25619e84b007e845aa5) ](https://Tirth-AI.io)
 <h1 align="center">Hi 👋, I'm Tirth Dalwadi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
