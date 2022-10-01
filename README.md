@@ -1,7 +1,6 @@
-[![MasterHead](https://drive.google.com/file/d/1X67bks8NzQK87Zc1hAkS0viad5zkhncl/view?usp=sharing) ](https://Tirth-AI.io)
+<img src="https://github.com/Tirth-AI/Tirth-AI/blob/main/GitHub%20Banner.gif">
 <h1 align="center">Hi 👋, I'm Tirth Dalwadi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on **Chat App**
