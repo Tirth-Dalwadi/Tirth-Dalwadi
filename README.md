@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Back-End Development**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tirth-AI/Projects](https://github.com/Tirth-AI/Projects)
 
