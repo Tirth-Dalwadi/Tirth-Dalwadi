@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirth-dalwadi&show_icons=true&locale=en" alt="tirth-dalwadi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirth-dalwadi" alt="tirth-dalwadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirth-dalwadi&show_icons=true&locale=en&layout=compact" alt="tirth-dalwadi" /></p>
